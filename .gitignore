@@ -1,6 +1,6 @@
 # Useless temporary files
 _kk/
-_videos/
+videos/
 _benchmarkings/
 _profiling/
 thecrown/output/*.txt
