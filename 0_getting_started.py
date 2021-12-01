@@ -16,12 +16,12 @@ model = A2C('MlpPolicy', env, verbose=1)
 model.learn(total_timesteps=10000)
 
 # Save the model.
-model.save('A2C-CarPole-v1')
+model.save('tmp/A2C-CarPole-v1')
 
 # ...
 
 # Load the model.
-new_model = A2C.load('A2C-CarPole-v1')
+new_model = A2C.load('tmp/A2C-CarPole-v1')
 
 # Run the trained model.
 obs = env.reset()
