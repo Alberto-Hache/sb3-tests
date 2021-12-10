@@ -3,11 +3,8 @@ _kk/
 videos/
 _benchmarkings/
 _profiling/
-thecrown/output/*.txt
-thecrown/tournament/gamesrecords
-tests/test_outputs/output.txt
-tests/test_outputs/profile_*.txt
-
+tests/
+tmp/
 
 # Visual Studio Code
 .vscode
