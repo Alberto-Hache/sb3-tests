@@ -5,6 +5,7 @@ _benchmarkings/
 _profiling/
 tests/
 tmp/
+roms/
 
 # Visual Studio Code
 .vscode

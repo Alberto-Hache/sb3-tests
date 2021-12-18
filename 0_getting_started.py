@@ -1,7 +1,7 @@
 # Getting started with 'stablebaselines3'
 # https://stable-baselines3.readthedocs.io/en/master/guide/quickstart.html
 
-# A quick example of how to train, save and and run A2C on a CartPole
+# A quick example of how to train, save and run A2C on a CartPole
 # environment.
 
 import gym
