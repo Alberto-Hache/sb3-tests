@@ -6,6 +6,7 @@ _profiling/
 tests/
 tmp/
 roms/
+logs/
 
 # Visual Studio Code
 .vscode
